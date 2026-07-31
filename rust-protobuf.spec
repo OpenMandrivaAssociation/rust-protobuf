@@ -6,8 +6,8 @@
 %global crate protobuf
 
 Name:           rust-%{crate}
-Version:        2.10.1
-Release:        2%{?dist}
+Version:        3.7.2
+Release:        1%{?dist}
 Summary:        Rust implementation of Google protocol buffers
 
 # Upstream license specification: MIT
